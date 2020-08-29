@@ -1,5 +1,5 @@
 keys:
-    telegram_token: =====key=====
+    telegram_token: 1265170362:AAG-vDNBu1-Efq1efdTi8iW_5ZABo_-k4hY
 conn_params:
     clean: true
     updater_workers: 8
