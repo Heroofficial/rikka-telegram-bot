@@ -3,6 +3,8 @@
 *My personal multipurpose chat bot with completely random features*  
 *Can be found at [@Rikka_Bot](https://telegram.me/Rikka_Bot)*
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Heroofficial/rikka-telegram-bot.git)
+
 ![Python ver](http://img.shields.io/badge/Python-3.6-yellow.svg) 
 [![IM](https://img.shields.io/badge/ImageMagick-7.0.10-blue)](https://imagemagick.org/)
 [![Build Status](https://scrutinizer-ci.com/g/MadiNyan/rikka-telegram-bot/badges/build.png?b=master)](https://scrutinizer-ci.com/g/MadiNyan/rikka-telegram-bot/build-status/master) 
